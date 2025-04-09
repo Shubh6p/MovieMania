@@ -1,0 +1,32 @@
+[
+    {
+        "title": "The Electric State",
+        "details": "Dual Audio Hindi-English 480p, 720p, 1080p",
+        "link": "TheElectricState.html",
+        "poster": "theelectricstate.jpg"
+    },
+    {
+        "title": "Inception",
+        "details": "Dual Audio Hindi-Chinese 480p, 720p, 1080p",
+        "link": "Inception.html",
+        "poster": "inception.jpg"
+    },
+    {
+        "title": "Interstellar",
+        "details": "Hindi-English 720p, 1080p",
+        "link": "Interstellar.html",
+        "poster": "interstellar.jpg"
+    },
+    {
+        "title": "The Martian",
+        "details": "Dual Audio Hindi-English 480p, 720p, 1080p",
+        "link": "TheMartian.html",
+        "poster": "martian.jpg"
+    },
+    {
+        "title": "Avengers: Endgame",
+        "details": "Dual Audio Hindi-English 480p, 720p, 1080p",
+        "link": "AvengersEndgame.html",
+        "poster": "avengersendgame.jpg"
+    }
+]
