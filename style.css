@@ -249,3 +249,19 @@ a {
     color: #666;
     padding: 0 10px;
 }
+
+@media screen and (max-width: 768px) {
+    .movie-card-container {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+    }
+  }
+
+@media screen and (max-width: 768px) {
+    .search-bar {
+      width: 100%; /* Adjust width to fit screen */
+      margin: 10px auto; /* Center and space it */
+      display: block; /* Ensure it stays visible */
+    }
+  }
